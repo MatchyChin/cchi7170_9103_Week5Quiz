@@ -87,7 +87,9 @@ function draw() {
 
 4. Screenshots or Images Showcasing
 - As mentioned, this is the ghost code from [Happy Coding](https://happycoding.io/tutorials/p5js/animation/ghost).
+
 ![Ghost](readmeimage/ghost.gif)
 
 - With the slight change in 3. it comes...
+
 ![New Ghost](readmeimage/NewGhost.gif)
