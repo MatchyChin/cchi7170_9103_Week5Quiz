@@ -12,8 +12,8 @@
 
 3. Screenshots or Images
 - Below shows a screenshot and a gif of the mentioned imaging technique
-- ![Starry Night](readmeimage/StarryNight.png)
-- ![Starry Night Gif](readmeimage/StarryNightGif.gif)
+![Starry Night](readmeimage/StarryNight.png)
+![Starry Night Gif](readmeimage/StarryNightGif.gif)
 
 # Part 2: Coding Technique Exploration
 
@@ -84,3 +84,10 @@ function draw() {
 
 3. Inspiration
 - A slight adjustment can be applied to the existing code above to change the "ghost's tail" from getting smaller to become a constant size of its head. Change ```ellipse(tailPoint.x, tailPoint.y, pointSize);``` to ```ellipse(tailPoint.x, tailPoint.y, ghostSize);```
+
+4. Screenshots or Images Showcasing
+- This is the ghost code from [Happy Coding](https://happycoding.io/tutorials/p5js/animation/ghost).
+![Ghost](readmeimage/ghost.gif)
+
+- With the slight change in 3. it comes...
+![New Ghost](readmeimage/NewGhost.gif)
