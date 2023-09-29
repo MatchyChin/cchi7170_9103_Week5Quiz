@@ -81,3 +81,6 @@ function draw() {
 - The code above is from [Happy Coding](https://happycoding.io/tutorials/p5js/animation/ghost). It is an animation of a ghost that moves in a curve with designated lengths and sizes, and the "tail" of it will get smaller and more transparent so that it will disappear at certain lengths. 
 
 - This technique can be used to create strokes with different colours for the artwork mentioned above. The animation of this technique can also be implied for the further variation of the assignment to match with the **Audio Frequency, Timers, or User Input** as a mouse click to change its speed or sizes by changing the variable *tailLength, ghostSize, wiggliness, floatiness* from the code provided above.
+
+3. Inspiration
+- A slight adjustment can be applied to the existing code above to change the "ghost's tail" from getting smaller to become a constant size of its head. Change ```ellipse(tailPoint.x, tailPoint.y, pointSize);``` to ```ellipse(tailPoint.x, tailPoint.y, ghostSize);```
