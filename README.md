@@ -1,4 +1,4 @@
-# cchi7170_9103_Week5Quiz
+# cchi7170_9103_Week8Quiz
 
 # Part 1: Imaging Technique Inspiration
 
